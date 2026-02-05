@@ -27,8 +27,7 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?
-      i=c,cpp,docker,git,linux,vscode,bash,postgres,github,java,spring,kafka,redis" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,docker,git,linux,vscode,bash,postgres,github,java,spring,kafka,redis" />
   </a>
 </p>
 
