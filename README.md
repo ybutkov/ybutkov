@@ -17,7 +17,7 @@
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,kafka,c,cpp,redis,docker,git,linux,idea,vscode,postman,bash,postgres,github&titles=true" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,kafka,c,cpp,redis,docker,git,linux,idea,vscode,postman,bash,postgres&titles=true" />
   </a>
 </p>
 
