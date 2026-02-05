@@ -24,5 +24,12 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   
 </p>
+### Languages and Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?
+      i=c,cpp,docker,git,linux,vscode,bash,postgres,github,java,spring,kafka,redis" />
+  </a>
+</p>
 
 
